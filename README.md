@@ -20,7 +20,7 @@
 
 ```sh
 //克隆此项目
-git clone 
+git clone https://github.com/Ardient/VCMS.git
 
 //进入项目目录
 cd vcms
