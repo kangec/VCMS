@@ -1,0 +1,15 @@
+html, body, #app {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+
+.el-table {
+    margin-top: 5px;
+}
