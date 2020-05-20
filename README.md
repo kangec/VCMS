@@ -32,7 +32,7 @@ yarn install
 yarn run serve
 
 //构建
-yarn build
+yarn run build
 
 ```
 
