@@ -1,22 +1,28 @@
-# VCMS--GLUT 
-##桂林理工大学Java Web实习前后端分离项目--前端
+<h1 align="center">Welcome to 车辆管理系统前端 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-### 开始
-```
+> 使用Vue.js和ElementUI构建的前端界面。
+
+## Install
+
+```sh
 yarn install
 ```
 
-### 运行
-```
-yarn serve
-```
+## Author
 
-### 编译打包
-```
-yarn build
-```
+👤 **刘康富**
 
-### 检查代码格式
-```
-yarn lint
-```
+* Website: www.ardien.xyz
+* Github: [@Ardient](https://github.com/Ardient)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
